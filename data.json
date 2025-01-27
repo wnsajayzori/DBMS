@@ -1,4 +1,1 @@
-{
-    "users": []
-}
-
+{"users": [{"name": "ajay", "email": "a@g.com", "phone": "0987654321", "room_no": "1", "owner_name": "ajayzori", "trn_amount": "100", "trn_date": "2025-01-01", "trn_mode": "Cash", "remarks": "Paid", "maintenance": [], "expenses": []}]}
